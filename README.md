@@ -4,7 +4,7 @@ Processo para deploy
 
 ### Oque é preciso?
 
-- Node
+- Node 14.x.x
 - Yarn
 - Json Server
 
