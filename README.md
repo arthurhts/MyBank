@@ -23,6 +23,13 @@ yarn global json-server
 yarn
 ```
 
+Caso estiver rodando em OSX, instale as dependencias iOS CocoaPods
+
+```bash
+npx pod-install ios
+```
+
+
 3-Stater nossa fake api JSON SERVER e teste no link http://localhost:3333/
 
 ```bash
